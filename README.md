@@ -45,9 +45,6 @@
 # :phone: Example SMS & Call flood:
 ```python3 Dost.py --method SMS --time 20 --threads 15 --target +380123456789```
 
-<p align="center">
-  <img src="https://i.ibb.co/KmPnV9f/Impulse-SMS.png">
-</p>
 
 # :moneybag: Donate:
 **BTC:** `35HiWwApnyAxubQnUCDMG96ipYaPHWdzqw`   
