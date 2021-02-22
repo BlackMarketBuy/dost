@@ -21,36 +21,34 @@
 * Windows:
   * Download Python 3.8 from [here](https://www.python.org/downloads/release/python-38)
   * Launch installer, click `add python to PATH`
-  * Download Impulse
-  * Open cmd or powershell in Impulse directory
+  * Download dost
+  * Open cmd or powershell in dost directory
   * Run this command: `pip install -r requirements.txt`
-  * And this: `python impulse.py --help`
+  * And this: `python Dost.py --help`
 
 * Linux:
   * `sudo apt update`
   * `sudo apt install python3 python3-pip git -y`
-  * `git clone https://github.com/LimerBoy/Impulse`
-  * `cd Impulse/`
+  * `git clone https://github.com/BlackMarketBuy/dost`
+  * `cd dost/`
   * `pip3 install -r requirements.txt`
-  * `python3 impulse.py --help`
+  * `python3 Dost.py --help`
 
 * Termux:
   * `pkg update`
   * `pkg install python3 python3-pip git -y`
-  * `git clone https://github.com/LimerBoy/Impulse`
-  * `cd Impulse/`
+  * `git clone https://github.com/BlackMarketBuy/dost`
+  * `cd dost`
   * `pip3 install -r requirements.txt`
-  * `python3 impulse.py --help`
+  * `python3 Dost.py --help`
 
 # :phone: Example SMS & Call flood:
-```python3 impulse.py --method SMS --time 20 --threads 15 --target +380123456789```
+```python3 Dost.py --method SMS --time 20 --threads 15 --target +380123456789```
 
 <p align="center">
   <img src="https://i.ibb.co/KmPnV9f/Impulse-SMS.png">
 </p>
 
 # :moneybag: Donate:
-**BTC:** `1GvEsEEdD8kfbSia6QR3Hk1G4fzy2mwZE4`  
-**ETH:** `0x4f62ce9632efF28f175aAAdd58B14A0AC053A952`  
-**XMR:** `487sRQv2gBXHVPc59Lkz5j7bgJ28Qy8nPW6hUvRyFWxM84cWzEnmVcWf6MWEQ59BwrP4viyoz6gfqhDPb1yiUx2SUViKVwd`  
+**BTC:** `35HiWwApnyAxubQnUCDMG96ipYaPHWdzqw`   
 
